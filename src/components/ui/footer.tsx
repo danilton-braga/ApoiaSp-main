@@ -11,7 +11,7 @@
             </div>
 
             <p className="font-['Inter',Helvetica] font-medium text-[#322030] text-base text-center">
-              © 2025 - Todos os direitos reservados a ApoiaSP. Criado por Taina
+              © 2026 - Todos os direitos reservados a ApoiaSP. Criado por Taina
               Alves de Oliveira
             </p>
 

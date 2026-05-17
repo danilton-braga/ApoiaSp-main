@@ -22,7 +22,7 @@ export const Footer = (): JSX.Element => {
         </div>
 
         <p className="font-['Inter',Helvetica] font-medium text-[#322030] text-xs sm:text-sm md:text-base text-center">
-          © 2025 - Todos os direitos reservados a ApoiaSP.
+          © 2026 - Todos os direitos reservados a ApoiaSP.
         </p>
 
         <div className="flex space-x-3 sm:space-x-4 md:space-x-6 lg:space-x-[24px]">
