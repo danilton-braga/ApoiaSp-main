@@ -9,19 +9,19 @@ export const Sobre = (): JSX.Element => {
     {
       id: 1,
       name: "Andre Ramos da Silva",
-      description: "Responsável pela criação de todo o design do site, bem como organização da metodologia ágil utilizada ao longo do projeto.\n\nAtualmente (2026), trabalha na ONG \"Escrevendo na Quebrada\" e tem aprofundado seus conhecimentos em nuvem, AWS e backend.",
+      description: "Ajudou criação do design do site",
       image: "/sem_perfi.jpg"
     },
     {
       id: 2,
       name: "Danilton Mota Braga",
-      description: "Responsável pelo desenvolvimento de front-end e back-end, bem como pesquisa para ferramentas de otimização e aperfeiçoamento do código.\n\nAtualmente (2026), trabalha na ONG \"ApoiaSp\" ",
+      description: "Responsável pelo desenvolvimento de front-end e back-end, bem como pesquisa para ferramentas de otimização e aperfeiçoamento do código.\n\nAtualmente (2026), trabalha como Analista de Negócios Pleno na \"Peça Aí\" ",
       image: "/danilton.jpeg"
     },
     {
       id: 3,
       name: "Henrique do Prado Pereira",
-      description: "Responsável por desenhar a arquitetura serverless do projeto na nuvem AWS, garantindo a integração segura e escalável entre todos os serviços.\n\nAtualmente (2026), cursando \"Ciência da Computação\" e tem aprofundado seus conhecimentos em design de sistemas e programação através da criação de soluções na nuvem.",
+      description: "Responsável por desenhar a arquitetura serverless do projeto na nuvem AWS, garantindo a integração segura e escalável entre todos os serviços.\n\nAtualmente (2026), cursando \"Bacharel em TI\" e tem aprofundado seus conhecimentos em design de sistemas e programação através da criação de soluções na nuvem.",
       image: "/Henrique_do_prado.jpeg"
     },
     {
@@ -33,7 +33,7 @@ export const Sobre = (): JSX.Element => {
     {
       id: 5,
       name: "Joeli Bezerra Cardoso",
-      description: "Responsável pelo desenvolvimento de front-end e back-end, bem como pesquisa para ferramentas de otimização e aperfeiçoamento do código.\n\nAtualmente (2026), trabalha na ONG \"ApoiaSp\" ",
+      description: "Responsável pelas pesquisas e desenvolvimento.\n ",
       image: "/Joeli_1.jpeg"
     },
     {
@@ -45,13 +45,13 @@ export const Sobre = (): JSX.Element => {
     {
       id: 7,
       name: "Tamara Xavier Lins",
-      description: "Responsável pelo desenvolvimento de front-end e back-end, bem como pesquisa para ferramentas de otimização e aperfeiçoamento do código.\n\nAtualmente (2026), trabalha na ONG \"ApoiaSp\" ",
+      description: "Responsável pelo Agil do projeto, bem como elaboração do Relatórios do Projeto.\n",
       image: "/Tamara.jpeg"
     },
     {
       id: 7,
       name: "Victor Spadasi de Souza Marinho",
-      description: "Responsável pelo desenvolvimento de front-end e back-end, bem como pesquisa para ferramentas de otimização e aperfeiçoamento do código.\n\nAtualmente (2026), trabalha na ONG \"ApoiaSp\" ",
+      description: "Responsável pela escrita e estrutura textual em conformidade com as normas ABNT, bem como revisão geral do projeto.\n\ ",
       image: "/Victor.jpeg"
     }
   ];
